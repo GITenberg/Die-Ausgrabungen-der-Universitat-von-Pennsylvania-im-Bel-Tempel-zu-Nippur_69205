@@ -1,6 +1,9 @@
 _repo: Die-Ausgrabungen-der-Universitat-von-Pennsylvania-im-Bel-Tempel-zu-Nippur_69205
 _version: 0.1.0
 alternative_title: Die Ausgrabungen im Bêl-Tempel zu Nippur
+covers:
+- cover_type: archival
+  image_path: 69205-h/images/cover.jpg
 creator:
   author:
     agent_name: Hilprecht, H. V. (Hermann Vollrat)
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Hermann_Volrath_Hilprecht
     - https://de.wikipedia.org/wiki/Hermann_Volrath_Hilprecht
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69205#Die-Ausgrabungen-der-Universitat-von-Pennsylvania-im-Bel-Tempel-zu-Nippur
 gutenberg_issued: '2022-10-22'
 identifiers:
   gutenberg: '69205'
